@@ -7,3 +7,5 @@ List of parts:
 * 1x Arduino Leonardo (http://arduino.cc/en/Main/ArduinoBoardLeonardo)
 * 1x 2.2k Ohm Resistor
 * 1x Big glass (http://www.ikea.com/gb/en/catalog/products/90213549/)
+
+More information under: http://jnsdbr.de/#projects/fuellauf
